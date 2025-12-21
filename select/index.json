@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ペンタトニック(25時、ナイトコードで。 ver.)",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2025-12-21T16:28:16.866548Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペンタトニック(25時、ナイトコードで。 ver.)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_ペンタトニック(25時、ナイトコードで。_ver.)_25時、ナイトコードで。.txt"
+    }
+  ]
+}
